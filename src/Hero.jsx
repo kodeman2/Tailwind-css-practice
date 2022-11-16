@@ -1,4 +1,5 @@
 import React from "react";
+import heroimg from "./assets/heronew.png";
 
 export default function Hero() {
   return (
@@ -19,7 +20,7 @@ export default function Hero() {
         <div className="flex justify-center items-center">
           {/*vector illustration online*/}
           <img
-            src="./src/assets/heronew.png"
+            src={heroimg}
             alt="hero"
             className="px-4 py-4 ml-10 w-[200px] h-[200px]"
           />
