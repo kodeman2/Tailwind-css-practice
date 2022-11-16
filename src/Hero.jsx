@@ -15,6 +15,7 @@ export default function Hero() {
 
        <div className='flex justify-center items-center'>
         {/*vector illustration online*/}
+        <img src="./src/assets/heronew.png" alt="hero" className=' flex justify-center ml-10 w-[200px] h-[200px]'/>
          
          
         

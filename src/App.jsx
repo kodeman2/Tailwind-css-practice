@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import NavBar from "./NavBar";
 function App() {
   return (
-    <div className=" w-full">
+    <div className="container:none w-full">
       <NavBar />
       <Hero/>
     </div>
