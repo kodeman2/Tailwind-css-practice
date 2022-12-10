@@ -20,7 +20,7 @@ const hidemenubar = () => {
         <div className="pr-4 flex">
           <ul className="hidden md:flex font-bold text-sm mr-10">
             <li className="pr-4 text-white">Home</li>
-            <li className="pr-4 text-white">Courses</li>
+            <li className="pr-4 text-white">Courss</li>
             <li className="pr-4 text-white">About</li>
             <li className="pr-4 text-white">Contact</li>
             <li className=" text-red-500">Login</li>
